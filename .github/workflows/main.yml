@@ -1,4 +1,4 @@
-
+name: Composite Actions Workflow
 on: [push]
 
 jobs:
